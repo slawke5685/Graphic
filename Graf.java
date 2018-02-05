@@ -1,5 +1,3 @@
-#Graphic
-
 package edu.lmu.cs.graphics;
 
 import java.awt.BorderLayout;
